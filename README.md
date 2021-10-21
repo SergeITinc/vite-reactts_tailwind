@@ -55,9 +55,6 @@ This is a [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang
     ```bash
     npm run serve
     ```
-# test
-# test
-# test
-# test
-# test
-# test
+
+
+# vite-reactts_tailwind
